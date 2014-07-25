@@ -18,7 +18,7 @@ public class EnumTypes {
 	 */
 	private void run() {
 		System.out
-				.println("http://docs.oracle.com/javase/tutorial/java/javaOO/enum.html");
+				.println("------------------------  starts --------------------------");
 
 		System.out.println(EnumExample.A.name());
 		System.out.println(EnumExample.A.ordinal());
