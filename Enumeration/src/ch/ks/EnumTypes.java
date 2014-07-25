@@ -18,7 +18,7 @@ public class EnumTypes {
 	 */
 	private void run() {
 		System.out
-				.println("------------------------  starts --------------------------");
+				.println("------------------------  start --------------------------");
 
 		System.out.println(EnumExample.A.name());
 		System.out.println(EnumExample.A.ordinal());
